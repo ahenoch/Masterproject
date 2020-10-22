@@ -1,0 +1,35 @@
+Cluster: 0
+gb_CY239484|Organism_Influenza_C_virus_(C/Minnesota/01/2016)|Strain_Name_C/Minnesota/01/2016|Segment_4|Host_Human
+gb_CY239465|Organism_Influenza_C_virus_(C/Minnesota/03/2014)|Strain_Name_C/Minnesota/03/2014|Segment_4|Host_Human
+gb_CY239436|Organism_Influenza_C_virus_(C/Minnesota/10/2015)|Strain_Name_C/Minnesota/10/2015|Segment_4|Host_Human
+gb_CY239438|Organism_Influenza_C_virus_(C/Minnesota/12/2015)|Strain_Name_C/Minnesota/12/2015|Segment_4|Host_Human
+gb_CY239440|Organism_Influenza_C_virus_(C/Minnesota/13/2015)|Strain_Name_C/Minnesota/13/2015|Segment_4|Host_Human
+gb_CY239442|Organism_Influenza_C_virus_(C/Minnesota/14/2015)|Strain_Name_C/Minnesota/14/2015|Segment_4|Host_Human
+gb_CY239444|Organism_Influenza_C_virus_(C/Minnesota/15/2015)|Strain_Name_C/Minnesota/15/2015|Segment_4|Host_Human
+gb_CY239452|Organism_Influenza_C_virus_(C/Minnesota/20/2015)|Strain_Name_C/Minnesota/20/2015|Segment_4|Host_Human
+gb_CY239461|Organism_Influenza_C_virus_(C/Minnesota/25/2015)|Strain_Name_C/Minnesota/25/2015|Segment_4|Host_Human
+gb_CY239463|Organism_Influenza_C_virus_(C/Minnesota/26/2015)|Strain_Name_C/Minnesota/26/2015|Segment_4|Host_Human
+gb_CY239469|Organism_Influenza_C_virus_(C/Minnesota/27/2015)|Strain_Name_C/Minnesota/27/2015|Segment_4|Host_Human
+gb_CY239471|Organism_Influenza_C_virus_(C/Minnesota/28/2015)|Strain_Name_C/Minnesota/28/2015|Segment_4|Host_Human
+gb_CY239475|Organism_Influenza_C_virus_(C/Minnesota/30/2015)|Strain_Name_C/Minnesota/30/2015|Segment_4|Host_Human
+
+Cluster: 1
+gb_AB126194|Organism_Influenza_C_virus_(C/Ann_Arbor/1/50)|Strain_Name_C/Ann_Arbor/1/50|Segment_4|Host_Human
+gb_AM410041|Organism_Influenza_C_virus_(C/Johannesburg/1/66)|Strain_Name_C/Johannesburg/1/66|Segment_4|Host_Canis_familiaris_Madin-Darby_kidney_cells_(type_I)
+gb_CY239433|Organism_Influenza_C_virus_(C/Minnesota/08/2015)|Strain_Name_C/Minnesota/08/2015|Segment_4|Host_Human
+gb_CY239446|Organism_Influenza_C_virus_(C/Minnesota/16/2015)|Strain_Name_C/Minnesota/16/2015|Segment_4|Host_Human
+gb_CY239448|Organism_Influenza_C_virus_(C/Minnesota/18/2015)|Strain_Name_C/Minnesota/18/2015|Segment_4|Host_Human
+gb_CY239450|Organism_Influenza_C_virus_(C/Minnesota/19/2015)|Strain_Name_C/Minnesota/19/2015|Segment_4|Host_Human
+gb_CY239454|Organism_Influenza_C_virus_(C/Minnesota/21/2015)|Strain_Name_C/Minnesota/21/2015|Segment_4|Host_Human
+gb_CY239455|Organism_Influenza_C_virus_(C/Minnesota/22/2015)|Strain_Name_C/Minnesota/22/2015|Segment_4|Host_Human
+gb_CY239457|Organism_Influenza_C_virus_(C/Minnesota/23/2015)|Strain_Name_C/Minnesota/23/2015|Segment_4|Host_Human
+gb_CY239459|Organism_Influenza_C_virus_(C/Minnesota/24/2015)|Strain_Name_C/Minnesota/24/2015|Segment_4|Host_Human
+gb_CY239473|Organism_Influenza_C_virus_(C/Minnesota/29/2015)|Strain_Name_C/Minnesota/29/2015|Segment_4|Host_Human
+gb_CY239481|Organism_Influenza_C_virus_(C/Minnesota/33/2015)|Strain_Name_C/Minnesota/33/2015|Segment_4|Host_Human
+gb_KM504280|Organism_Influenza_C_virus_(C/Victoria/2/2012)|Strain_Name_C/Victoria/2/2012|Segment_4|Host_Human
+
+Cluster: -1
+gb_K01689|Organism_Influenza_C_virus|Strain_Name_C/California/78|Segment_4|Host_Human
+gb_AY880247|Organism_Influenza_C_virus_(C/Johannesburg/1/66)|Strain_Name_C/Johannesburg/1/66|Segment_4|Host_Canis_familiaris_Madin-Darby_kidney_cells_(type_I)
+gb_M17868|Organism_Influenza_C_virus|Strain_Name_C/Johannesburg/66|Segment_4|Host_Human
+

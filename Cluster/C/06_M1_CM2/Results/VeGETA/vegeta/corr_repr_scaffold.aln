@@ -1,0 +1,78 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.471)
+
+
+gb_LC123845|Org ---atggcacatgaaatattgattgctgaaacagaggcatttctaaaaaatgttgctcct
+gb_AB000614|Org acaatggcacatgaaatattgattgctgaaacagaggcatttctaaaaaatgttgctcct
+                   *********************************************************
+
+gb_LC123845|Org gagaccaggacagcaataatttcagcaataacaggtggaaaatcagcctgcaaatcagca
+gb_AB000614|Org gagaccaggacagcaataatttcagcaataacaggtggaaaatcagcctgcaaatcagca
+                ************************************************************
+
+gb_LC123845|Org gctaaactgatcaagaatgagcatcttcccttaatgtctggagaagccaccacaatgcac
+gb_AB000614|Org gctaaactgatcaagaatgaacatcttcccttaatgtctggagaagccaccacaatgcac
+                ********************.***************************************
+
+gb_LC123845|Org attgttatgaggtgcctatatcctgaaataaaaccatggaaaaaggcaagcgacatgctg
+gb_AB000614|Org attgttatgaggtgcctatatcctgaaataaaaccatggaaaaaggcaagcgacatgctg
+                ************************************************************
+
+gb_LC123845|Org aataaagcaacttctagtttgaaaaaatcagaaggaagagacatcagaaagcaaatgaaa
+gb_AB000614|Org aataaagcaacttctagtttgaaaaaatcagaaggaagagacatcagaaagcaaatgaaa
+                ************************************************************
+
+gb_LC123845|Org gcagctggagactttttgggagtggagtcaatgatgaaaatgagggccttcagagatgac
+gb_AB000614|Org gcagctggagactttttgggagtggagtcaatgatgaaaatgagggccttcagagatgac
+                ************************************************************
+
+gb_LC123845|Org caaataatggaaatggttgaagaagtatatgatcacccagacgactacacaccagacatc
+gb_AB000614|Org caaataatggaaatggttgaagaagtatatgatcacccagacgactacacaccagacatc
+                ************************************************************
+
+gb_LC123845|Org cgaataggaacaatcacagcttggttgagatgcaaaaacaagaaaagtgaaagatacagg
+gb_AB000614|Org cgaataggaacaatcacagcttggttgagatgcaaaaacaagaaaagtgaaagatacagg
+                ************************************************************
+
+gb_LC123845|Org agtaatgtctcagaaagtggaagaacagctttaaaaattcatgaagtaagaaaagccagc
+gb_AB000614|Org agtaatgtctcagaaagtggaagaacagctttaaaaattcatgaagtaagaaaagccagc
+                ************************************************************
+
+gb_LC123845|Org acagcaatgaacgaaattgctggtattgctggccttggagaagaagcactatctctccaa
+gb_AB000614|Org acagcaatgaacgaaattgctggtattactggccttggagaagaagcactatctctccaa
+                ***************************.********************************
+
+gb_LC123845|Org agacaaacagaaagtttggccatattatgcaatcacacttttggaagtaatataatgaga
+gb_AB000614|Org agacaaacagaaagtttggccatattatgcaatcacacttttggaagtaatataatgaga
+                ************************************************************
+
+gb_LC123845|Org ccccacttggaaaaagcaataaaaggagttgaaggcagagttggagagatgggacgaatg
+gb_AB000614|Org ccccacttggaaaaagcaataaaaggagttgaaggcagagttggagagatgggacgaatg
+                ************************************************************
+
+gb_LC123845|Org gcgatgaaatggttagttgttataatatgtttctctataataagtcaacctgcttctgct
+gb_AB000614|Org gcgatgaaatggttagttgttataatatatttctctataacaagtcaacctgcttctgct
+                ****************************.***********.*******************
+
+gb_LC123845|Org tgcaatctaaagacctgtctaaacctatttaacaatactgatgcagtaactgttcattgc
+gb_AB000614|Org tgcaatctaaagacctgtctaaacctatttaacaatactgatgcagtaactgttcattgt
+                ***********************************************************.
+
+gb_LC123845|Org tttaatgaaaaccaaggatacatgctaacattagcatctttgggattagggataattact
+gb_AB000614|Org tttaatgaaaaccaaggatacatgctaacattagcctctttgggattagggataattact
+                *********************************** ************************
+
+gb_LC123845|Org atgttgtatttattagtaaaaatcataattgaacttgtcaatggttttgtgctcggcaga
+gb_AB000614|Org atgttgtatttattagtaaaaatcataattgaacttgtcaatggttttgtgctcggcaga
+                ************************************************************
+
+gb_LC123845|Org tgggagagatggtgtggagatataaagaccacaattatgcctgaaattgactcgatggag
+gb_AB000614|Org tgggagagatggtgtggagatataaagaccacaattatgcctgaaattgactcgatggaa
+                ***********************************************************.
+
+gb_LC123845|Org aaagatattgccctttctagggagagacttgacctgggagaggatgcccctgacgaaacc
+gb_AB000614|Org aaagatattgccctctctagggagagacttgacctgggagaggatgcccctgacgaaacc
+                **************.*********************************************
+
+gb_LC123845|Org gacaactcaccaattcccttttccaatgatggtatttttgaaatttaa--------
+gb_AB000614|Org gacaactcaccaattcctttttccaatgatggtatttttgaaatttaattaccttg
+                *****************.******************************        

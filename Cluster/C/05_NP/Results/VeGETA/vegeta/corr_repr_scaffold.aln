@@ -1,0 +1,122 @@
+CLUSTAL format alignment by MAFFT FFT-NS-1 (v7.471)
+
+
+gb_LC123727|Org atgtctgacagacgtcaaaacagaaaaacgccagatgagcaacgcaaagccaatgctctc
+gb_LC123755|Org atgtctgacagacgtcaaaacagaaagacgccagatgagcaacgcaaagccaatgctctc
+                **************************.*********************************
+
+gb_LC123727|Org ataataaatgagaacattgaagcctacattgccatttgtaaggaagtgggccttaatggc
+gb_LC123755|Org ataataaatgagaacattgaggcctacattgccatttgtaaggaagtgggccttaatggc
+                ********************.***************************************
+
+gb_LC123727|Org gatgaaatgttgatcctggaaaatggcatagcaattgaaaaagctataagaatatgttgt
+gb_LC123755|Org gatgaaatgttgatcctggaaaatggcatagcaattgaaaaagctataagaatatgttgt
+                ************************************************************
+
+gb_LC123727|Org gatggaaagtatcaagaaaaaagggaaaagaaagcaagagaagcccaaagagcggacagc
+gb_LC123755|Org gatggaaagtatcaagaaaaaagggaaaagaaagcaagagacgcccaaagagcggacagt
+                ***************************************** *****************.
+
+gb_LC123727|Org aacttcaacgcagattccattgggatcagactagttaaaagagctggttcaggcaccaat
+gb_LC123755|Org aacttcaacgcagattccattgggatcagactagttaaaagagctggttcaggcaccaat
+                ************************************************************
+
+gb_LC123727|Org ataacctaccatgcagttgttgaactgacaagccgctcaagaattgttcaaattctcaaa
+gb_LC123755|Org ataacctaccatgcagttgttgaattaacaagccgctcaagaattgttcaaattctcaaa
+                ************************.*.*********************************
+
+gb_LC123727|Org tctcattggggaaatgaactaaacagagcaaaaattgcaggaaaaagactcggcttctct
+gb_LC123755|Org tctcattggggaaatgaactaaacagagcaaaaattgcaggaaaaagactcggcttctct
+                ************************************************************
+
+gb_LC123727|Org gcactctttgcttctaacttagaagcaattatttatcaaagaggaagaaacgcagcaaga
+gb_LC123755|Org gcactcttcgcttctaacttggaagcaattatctatcaaagaggaagaaacgcagcaaga
+                ********.***********.***********.***************************
+
+gb_LC123727|Org agaaacggttctgctgaattgttcactctcactcaaggggctggaatcgaaactagatat
+gb_LC123755|Org agaaatggttctgctgaattgttcactctcactcagggggctggaatcgaaactagatat
+                *****.*****************************.************************
+
+gb_LC123727|Org aaatggataatggaaaagcacatcggaattggagttcttatagctgacgcaaaaggttta
+gb_LC123755|Org aaatggataatggaaaagcatatcggaattggggttcttatagctgacgcaaaaggttta
+                ********************.***********.***************************
+
+gb_LC123727|Org ataaatggaaagagagaaggcaaaagaggagttgatgccaatgtaaaattgagagcagga
+gb_LC123755|Org ataaatggaaagagagaaggcaaaagaggagttgatgccaatgtaaaattgagagcagga
+                ************************************************************
+
+gb_LC123727|Org acgactggttcccctctggaaagagctatgcaaggaattgagaaaaaagcgtttcctgga
+gb_LC123755|Org acaactggttcccctctggaaagagccatgcaaggaattgagaaaaaagcgtttcctgga
+                **.***********************.*********************************
+
+gb_LC123727|Org cctttaagagcactagcaagaagagttgtaaaagcaaactacaatgatgccagagaagct
+gb_LC123755|Org cctttaagagcactagcaagaagagttgtaaaagcaaactacaatgatgccagagaagct
+                ************************************************************
+
+gb_LC123727|Org ctaaatgtcatcgcagaagcatcactcctgttaaagcctcagataaccaacaagatgaca
+gb_LC123755|Org ctaaatgtcatcgcagaggcatcactcctgttaaaacctcagataaccaacaagatgaca
+                *****************.*****************.************************
+
+gb_LC123727|Org atgccttggtgtatgtggttggctgccagacttactctgaaagatgagtttaccaatttc
+gb_LC123755|Org atgccttggtgtatgtggttggctgccagacttactctgaaagatgagtttgccaatttc
+                ***************************************************.********
+
+gb_LC123727|Org tgtgcatatgcgggaagaagagcctttgaggtcttcaatattgcaatggagaaaattgga
+gb_LC123755|Org tgtgcatacgcgggaagaagagcttttgaggtcttcaatattgcaatggagaaaattgga
+                ********.**************.************************************
+
+gb_LC123727|Org atttgttcctttcaagggacaataatgaacgatgatgaaattgaatcaatagaggacaag
+gb_LC123755|Org atttgttcctttcaagggacaataatgaacgatgatgaaattgaatcaatagaggacaag
+                ************************************************************
+
+gb_LC123727|Org gctcaagtattgatgatggcatgctttggacttgcttatgaagacttcagtttggtctct
+gb_LC123755|Org gctcaagtattaatgatggcatgctttggacttgcttatgaagacttcagtttggtctct
+                ***********.************************************************
+
+gb_LC123727|Org gctatggtcagccaccctcttaagttgagaaacagaatgaaaataggaaacttcagagtc
+gb_LC123755|Org gctatggttagccaccctcttaagttgagaaacagaatgaaaataggaaacttcagagtc
+                ********.***************************************************
+
+gb_LC123727|Org ggtgaaaaagtttcaacagtgctttctcccttattgagattcacaagatgggcagaattt
+gb_LC123755|Org ggtgaaaaagtttcaacagtgctttctcccttattgagattcacaagatgggcagaattt
+                ************************************************************
+
+gb_LC123727|Org gctcaaagatttgctcttcaggcaaatacttcaagagaaggcgctcaaatcagcaattca
+gb_LC123755|Org gctcaaagatttgctcttcaggcgaatacttcaagagaaggtgctcaaatcagcaattca
+                ***********************.*****************.******************
+
+gb_LC123727|Org gcagtttttgcagtggaaaggaaaataaccacagatgtccaaagagttgaagagctacta
+gb_LC123755|Org gcagtttttgcagtggaaaggaaaataaccacagatgttcaaagggttgaagagctacta
+                **************************************.*****.***************
+
+gb_LC123727|Org aataaagttcaagctcatgaagatgaaccattacaaacactttacaaaaaagtaagagaa
+gb_LC123755|Org aataaagttcaagctcatgaagatgaaccattacaaacactttacaaaaaagtaagagaa
+                ************************************************************
+
+gb_LC123727|Org caaatttccataattggaaggaacaagtctgaaataaaggagtttctagggtcttcaatg
+gb_LC123755|Org caaatttctataattgggaggaacaagtctgagataaaggagtttctagggtcttcaatg
+                ********.********.**************.***************************
+
+gb_LC123727|Org tatgatttaaatgatcaagaaaaacaaaatccaataaatttcaggtctggagcacaccct
+gb_LC123755|Org tatgatttaaatgatcaagaaaaacaaaatccaataaatttcaggtctggagcacaccct
+                ************************************************************
+
+gb_LC123727|Org ttctttttcgaattcgacccagactacaaccccataagagtgaaaagacccaaaaaacca
+gb_LC123755|Org ttcttcttcgaattcgacccagactacaaccccataagagtgaaaagacccaaaaagcca
+                *****.**************************************************.***
+
+gb_LC123727|Org atagcaaagagaaattcaaatatcagcagattggaagaagaaggaatggatgaaaattca
+gb_LC123755|Org atagcaaagagaaattcaaatatcagcagattggaagaagaaggaatggatgaaaattca
+                ************************************************************
+
+gb_LC123727|Org gagattggacaagccaagaagatgaaacccttggatcaattggccagcactagtagcaac
+gb_LC123755|Org gagattggacaagccaagaagatgaaacccttggatcaattggccagcaccagtagcaac
+                **************************************************.*********
+
+gb_LC123727|Org attcctggagaaaattaaagtcagattaaattcatcacatattttatgatcaactgttgt
+gb_LC123755|Org attcctggagaaaattaaagtcagattaaattcatcacatattttatgatcaactgttgt
+                ************************************************************
+
+gb_LC123727|Org attgttatatataa
+gb_LC123755|Org attgctatatataa
+                ****.*********
