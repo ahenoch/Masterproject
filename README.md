@@ -16,7 +16,6 @@ The clusters of _Influenza B virus_ were compared and their quality rated by a c
 To use the proposed pipeline on the given set of Files in the repository, two conda environments need to exist. To create these results the following block of code can be used.
 
 ```
-{
 conda config --add channels defaults
 conda config --add channels bioconda
 conda config --add channels conda-forge
@@ -51,29 +50,25 @@ conda install -c glpk
 
 pip install numpy biopython colorlog umap-learn hdbscan docopt scipy
 
-conda deactivate \end{lstlisting}  
-
-}
+conda deactivate
 ```
 
-To start the pipeline the script must be executed in an interactive shell to have access to the environments.
+To start the pipeline the script must be executed in an interactive shell to have access to the environments. 
 
 ```
-{
+cd Masterproject/Cluster
 bash -i script.sh -p 8 -i B/ > .log
-}
 ```
 
 For execution on _Influenza B virus_ and _Influenza C virus_ subsets the command can be extended to include both.
 
 ```
-{
-bash -i script.sh -p 8 -i B/ > .log
-}
+cd Masterproject/Cluster
+bash -i script.sh -p 8 -i B/ -i C/ > .log
 ```
 
 All steps to use the proposed pipeline are described in detail in the report.
 
---
+---
 
 Special thanks to Daniel Desiro and Kevin Lamkiewicz for supervision!
