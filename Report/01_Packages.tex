@@ -1,0 +1,116 @@
+\usepackage[utf8]{inputenc}
+
+\usepackage[T1]{fontenc}
+
+\usepackage[maxbibnames=99,maxcitenames=2,uniquelist=false,backend=biber,terseinits=true,bibstyle=authoryear,giveninits=true,uniquename=init,citestyle=authoryear]{biblatex}
+\urlstyle{same}
+\DeclareNameAlias{sortname}{family-given}
+\addbibresource{11_Literature.bib}
+
+\usepackage{csquotes}
+
+\usepackage[english]{babel}
+
+\usepackage[onehalfspacing]{setspace}
+
+\usepackage[bindingoffset=1cm,right=2.5cm,top=2.5cm,bottom=2.5cm,left=2.5cm,a4paper]{geometry}
+
+\usepackage[automark,headsepline,plainheadsepline]{scrlayer-scrpage}
+\automark[section]{chapter}
+
+\usepackage{ragged2e} %justufy scheiße?
+
+\usepackage{blindtext}
+
+\usepackage[pdfpagelabels]{hyperref}
+
+\usepackage{graphicx}
+
+\usepackage{bm}
+
+\usepackage{enumitem}
+
+\usepackage{rotating}
+
+%\usepackage{lmodern}
+\usepackage{newtxtext}
+\usepackage[slantedGreek]{newtxmath}
+
+\usepackage[acronyms, toc, automake=false, counter=chapter,  nopostdot, nonumberlist]{glossaries}
+\makenoidxglossaries
+
+\usepackage{calc}
+
+\usepackage{pdfpages}
+
+\usepackage{booktabs}
+
+\usepackage{textgreek}
+
+\usepackage{wasysym}
+
+\usepackage{amsmath}
+
+\usepackage{extarrows}
+
+\usepackage{empheq}
+
+\usepackage{amsfonts}
+
+\usepackage{chngcntr}
+
+\usepackage{tabu}
+
+\usepackage{longtable}
+
+\usepackage{diagbox}
+
+\usepackage{float}
+
+\usepackage[labelfont=bf, font=footnotesize, labelsep=space, format=plain, labelformat = simple, nooneline, aboveskip=10pt, belowskip=10pt]{caption}
+
+\usepackage[labelfont=bf, font=footnotesize, labelsep=space, format=plain, list=true, labelformat = parens, aboveskip=0pt, belowskip=0pt]{subcaption}
+
+\usepackage{multirow}
+
+\usepackage{array}
+
+\usepackage{adjustbox}
+
+\usepackage{fancyvrb}
+
+\usepackage{framed}
+
+\usepackage{listings}
+\usepackage{xcolor}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\definecolor{cDD}{HTML}{a62474}
+\newcommand{\DD}[1]{\xspace\textcolor{cDD}{#1}\xspace}
+\newcommand{\todo}[1]{\textcolor{red}{{ #1}}}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=mystyle}
+
+\DefineBibliographyStrings{english}{andothers={et\ al\adddot}}

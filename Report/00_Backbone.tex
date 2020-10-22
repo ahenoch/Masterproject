@@ -1,0 +1,65 @@
+\documentclass[numbers=noenddot, 12pt, listof=totoc, bibliography=totoc, oneside, openany, cleardoublepage=headings]{scrbook}
+
+\input{01_Packages}
+
+\input{02_Abbreviations}
+
+\begin{document}
+    
+    \input{03_Settings}
+    
+    \input{04_Titlepage}
+    
+    \thispagestyle{empty}
+    
+    \frontmatter
+    
+    \tableofcontents
+    
+    %\input{05_Summary}
+    
+    %\input{06_Abstract}
+    
+    \glsaddall 
+    \setglossarystyle{listgroup}
+    \printnoidxglossary[title=List of Abbreviations, type=\acronymtype]
+     
+    \listoffigures
+    
+    \listoftables
+    
+    %\lstlistoflistings
+    
+    \mainmatter
+    
+    \input{07_Introduction}
+    
+    \glsresetall
+    \setcounter{table}{0}
+    \setcounter{figure}{0}
+    \setcounter{equation}{0}
+
+    \input{08_Materials_and_Methods}
+    
+    \glsresetall
+    \setcounter{table}{0}
+    \setcounter{figure}{0}
+    \setcounter{equation}{0}
+
+    \input{09_Results_and_Discussion}
+
+    \glsresetall
+    \setcounter{table}{0}
+    \setcounter{figure}{0}
+    \setcounter{equation}{0}
+    
+    \input{10_Conclusion}
+    
+    %\nocite{*}
+    \printbibliography[title=References]
+    
+    \input{12_Appendix}
+    
+    \backmatter
+    
+\end{document}
